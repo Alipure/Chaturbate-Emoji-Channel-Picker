@@ -63,7 +63,7 @@ const readline = require('readline').createInterface({
 
                 if (input === '=') {
                     i++; // Increment page number
-                    if (i > 5) {
+                    if (i > 15) {
                         console.log('Reached page limit, resetting to page 1...');
                         i = 1;
                     }
