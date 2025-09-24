@@ -14,7 +14,7 @@ Welcome to the **Chaturbate Emoji Searcher**, a Node.js script powered by Seleni
 
 - **Emoji Detection**: Scans the page source to list unique emojis with numbered options (e.g., `1: 😈`, `2: ✨`).
 - **Interactive Prompt**: Choose an emoji by number, type `=` to navigate to the next page, or press Enter to exit.
-- **Smart Pagination**: Automatically moves to the next page (up to 5) if the emoji isn’t found, then resets to page 1.
+- **Smart Pagination**: Automatically moves to the next page (up to 15) if the emoji isn’t found, then resets to page 1.
 - **Reliable Search**: Finds emojis in room card subject text (`<ul class="subject">`) using JavaScript filtering.
 - **Robust Error Handling**: Manages missing elements, network issues, and invalid inputs with detailed logs.
 - **Dynamic Loading**: Uses explicit waits to ensure room cards and elements are ready before interaction.
