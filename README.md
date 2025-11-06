@@ -1,3 +1,7 @@
+**IF YOU ARE RELIGIOUS FEEL FREE TO AVOID THIS**
+**THANK YOU**
+
+
 # Chaturbate Emoji Searcher
 
 ![Emoji Search Banner](https://via.placeholder.com/800x200?text=Chaturbate+Emoji+Searcher)
